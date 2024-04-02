@@ -49,17 +49,16 @@ I'm a multidisciplinary engineer based in La Marsa, Tunisia, with a specializati
 </p>
 
 <h3 align="left">Other Tools:</h3>
+
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/></a>
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/SolidWorks-Logo.png" alt="SolidWorks" width="40" height="40"/>
+  <img src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg" alt="SolidWorks" width="40" height="40"/>
 </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Office_365_logo.svg" alt="office365" width="40" height="40"/></a>
-</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moussaart&show_icons=true&locale=en&layout=compact" alt="moussaart" /></p>
